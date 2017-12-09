@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- libra -->
+  <project path="device/xiaomi/libra" name="platform_device_xiaomi_libra" remote="kenga" revision="n2" />
+  <project path="kernel/xiaomi/msm8992" name="platform_kernel_xiaomi_msm8992" remote="kenga" revision="n2"/>
+  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="kenga" revision="n2"/>
+
+</manifest>
